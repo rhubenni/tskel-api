@@ -1,0 +1,14 @@
+{
+    "name": "rhubenni/tskel-api",
+    "description": "A Basic REST API Skeleton for PHP",
+    "type": "project",
+    "license": "CC-BY-SA-4.0",
+    "authors": [
+        {
+            "name": "Rhubenni Telesco",
+            "email": "rhubenni.telesco+git@gmail.com"
+        }
+    ],
+    "minimum-stability": "RC",
+    "require": {}
+}

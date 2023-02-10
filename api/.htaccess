@@ -1,0 +1,7 @@
+
+Options +FollowSymLinks -Indexes
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !/api/_controller.php
+RewriteRule ^.*$ /api/_controller.php [L,QSA]
+
